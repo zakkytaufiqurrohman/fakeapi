@@ -1,16 +1,7 @@
-datas [{
-    "id": null,
-    "result": {
-        "name": "Galvanis Out List",
-        "result": [
+"result": [
             {
                 "id": 1,
                 "date": "2021-09-02",
                 "number": "INI/NOMOR"
             }
-        ],
-        "error": false,
-        "limit": 10
-    },
-    "jsonrpc": "2.0"
-}]
+]
